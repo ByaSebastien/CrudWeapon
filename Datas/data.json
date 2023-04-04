@@ -1,0 +1,20 @@
+[
+  {
+    "Id": 1,
+    "Name": "357 Magnum",
+    "WeaponType": 2,
+    "Description": "Arrête les camions"
+  },
+  {
+    "Id": 2,
+    "Name": "SIG P210",
+    "WeaponType": 1,
+    "Description": "Arme militaire suisse"
+  },
+  {
+    "Id": 3,
+    "Name": "Sigma",
+    "WeaponType": 3,
+    "Description": "Anti blindé"
+  }
+]
